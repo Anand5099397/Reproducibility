@@ -1,0 +1,15 @@
+artifact_uri: file:///home/codeshell/Reproducibility-and-Reusability-Ml_ops-Assignment-/mlruns/265149329142488405/db78da00c15942339340c6ad92ae4440/artifacts
+end_time: 1729536294428
+entry_point_name: ''
+experiment_id: '265149329142488405'
+lifecycle_stage: active
+run_id: db78da00c15942339340c6ad92ae4440
+run_name: Random_Forest
+run_uuid: db78da00c15942339340c6ad92ae4440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729536292017
+status: 3
+tags: []
+user_id: codeshell
