@@ -78,24 +78,5 @@ def train_and_log_model():
         mlflow.sklearn.log_model(model, "model")
     mlflow.end_run()
 # Train and log Linear Regression model
-def train_and_log_model2():
-    with mlflow.start_run() as run:
-        model = LinearRegression()
-        model.fit(X_train, y_train)
-        y_pred = model.predict(X_test)
-        mse = mean_squared_error(y_test, y_pred)
-        r2 = r2_score(y_test, y_pred)
-        mae = mean_absolute_error(y_test, y_pred)
-        print(f"LinearRegression - Mean Squared Error: {mse}")
-        print(f"LinearRegression - R-squared: {r2}")
-        print(f"LinearRegression - Mean Absolute Error: {mae}")
-        mlflow.log_param("model", "LinearRegression")
-        mlflow.log_metric("mse", mse)
-        mlflow.log_metric("r2", r2)
-        mlflow.sklearn.log_model(model, "model")
-    mlflow.end_run()
 
-# Execute the functions
-train_and_log_model()
-train_and_log_model2()
 
