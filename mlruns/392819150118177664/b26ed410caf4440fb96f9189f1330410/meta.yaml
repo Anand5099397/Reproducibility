@@ -1,0 +1,15 @@
+artifact_uri: file:///home/codeshell/Reproducibility/mlruns/392819150118177664/b26ed410caf4440fb96f9189f1330410/artifacts
+end_time: 1729578823854
+entry_point_name: ''
+experiment_id: '392819150118177664'
+lifecycle_stage: active
+run_id: b26ed410caf4440fb96f9189f1330410
+run_name: masked-cod-243
+run_uuid: b26ed410caf4440fb96f9189f1330410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729578822427
+status: 3
+tags: []
+user_id: codeshell

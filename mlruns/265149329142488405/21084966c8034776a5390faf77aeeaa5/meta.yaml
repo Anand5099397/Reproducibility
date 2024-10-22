@@ -1,0 +1,15 @@
+artifact_uri: file:///home/codeshell/Reproducibility-and-Reusability-Ml_ops-Assignment-/mlruns/265149329142488405/21084966c8034776a5390faf77aeeaa5/artifacts
+end_time: 1729577812105
+entry_point_name: ''
+experiment_id: '265149329142488405'
+lifecycle_stage: active
+run_id: 21084966c8034776a5390faf77aeeaa5
+run_name: Linear_Regression
+run_uuid: 21084966c8034776a5390faf77aeeaa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729577809334
+status: 3
+tags: []
+user_id: codeshell

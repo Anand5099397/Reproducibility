@@ -1,0 +1,15 @@
+artifact_uri: file:///home/codeshell/Reproducibility-and-Reusability-Ml_ops-Assignment-/mlruns/265149329142488405/2285a90d59e14179830ea6d77b894043/artifacts
+end_time: 1729577816036
+entry_point_name: ''
+experiment_id: '265149329142488405'
+lifecycle_stage: active
+run_id: 2285a90d59e14179830ea6d77b894043
+run_name: aged-mule-908
+run_uuid: 2285a90d59e14179830ea6d77b894043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729577814754
+status: 3
+tags: []
+user_id: codeshell

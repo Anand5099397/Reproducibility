@@ -1,0 +1,15 @@
+artifact_uri: file:///home/codeshell/Reproducibility/mlruns/392819150118177664/82aa1033583949fe8bea0c0ef24d4df8/artifacts
+end_time: 1729578822425
+entry_point_name: ''
+experiment_id: '392819150118177664'
+lifecycle_stage: active
+run_id: 82aa1033583949fe8bea0c0ef24d4df8
+run_name: kindly-deer-306
+run_uuid: 82aa1033583949fe8bea0c0ef24d4df8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729578820196
+status: 3
+tags: []
+user_id: codeshell

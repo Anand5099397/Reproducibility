@@ -1,0 +1,6 @@
+artifact_location: file:///home/codeshell/Reproducibility/mlruns/392819150118177664
+creation_time: 1729578820114
+experiment_id: '392819150118177664'
+last_update_time: 1729578820114
+lifecycle_stage: active
+name: My_mlflow_exp
